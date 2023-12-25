@@ -1,0 +1,73 @@
+[  
+    {
+        "id" : 1,
+        "name": {
+            "title": "mrs",
+            "first": "katie",
+            "last": "fleming"
+        },   
+        "email": "katie.fleming@example.com",
+        "location": {
+            "street": "1003 west street",
+            "city": "sligo",
+            "state": "kerry"
+        }
+    },
+    {
+        "id" : 2,
+        "name": {
+            "title": "mr",
+            "first": "mads",
+            "last": "jensen"
+        },   
+        "email": "mads.jensen@example.com",
+        "location": {
+            "street": "2059 rønnebærvej",
+            "city": "støvring ",
+            "state": "nordjylland"
+        }
+    },
+    {
+        "id" : 3,
+        "name": {
+            "title": "mrs",
+            "first": "meghan",
+            "last": "stone" 
+        },   
+        "email": "meghan.stone@example.com",
+        "location": {
+            "street": "3491 n stelling rd",
+            "city": "perth",
+            "state": "northern territory"
+        }
+    },
+    {
+        "id" : 4,
+        "name": {
+            "title": "ms",
+            "first": "pippa",
+            "last": "walker"
+        },   
+        "email":  "pippa.walker@example.com",
+        "location": {
+            "street": "6810 white swan road",
+            "city": "palmerston north",
+            "state": "taranaki"    
+        }
+    },
+    {
+        "id" : 5,
+        "name": {
+            "title": "miss",
+            "first": "florence",
+            "last": "johnson"
+        },   
+        "email": "florence.johnson@example.com",
+        "location": {
+            "street": "2622 maple ave",
+            "city": "vanier",
+            "state": "newfoundland and labrador"
+        }
+    }
+
+]
