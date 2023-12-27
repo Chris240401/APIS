@@ -2,7 +2,7 @@ Hi , Mi nombre es Christian Ramírez La programación es un lenguaje universal q
 
 presento mi proyecto
 
-** Ejercicio de Automatización E2E **
+** Ejercicio API -KARATE- **
 
 ⏩ Comience Comience a usar VS Code, IntelliJ, Maven, Gradle, NPM, GitHub Codespaces, Docker o la línea de comandos
 
